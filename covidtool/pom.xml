@@ -27,6 +27,18 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+	 <dependency>
+	  <groupId>com.mashape.unirest</groupId>
+	  <artifactId>unirest-java</artifactId>
+	  <version>1.4.9</version>
+	  <type>jar</type>
+	 </dependency>
+	 <dependency>
+	  <groupId>org.springframework</groupId>
+	  <artifactId>spring-web</artifactId>
+	  <version>5.3.10</version>
+	  <type>jar</type>
+	 </dependency>
 	</dependencies>
 
 	<build>
